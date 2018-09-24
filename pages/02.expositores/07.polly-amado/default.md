@@ -1,5 +1,6 @@
 ---
 title: 'Polly Amado | Cake Designer'
+media_order: 'POLLY AMADO .jpg'
 twittercardoptions: summary
 articleenabled: false
 musiceventenabled: false
