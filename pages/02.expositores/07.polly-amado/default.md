@@ -15,12 +15,11 @@ restaurant:
     priceRange: $
 ---
 
-# Polly Amado,<em> <p>
-    31 anos
-</p> <em>
+# Polly Amado
+### 31 anos
 
-A 3 anos no ramo da confeitaria, ela se encontrou.
+_ A 3 anos no ramo da confeitaria, ela se encontrou. _
 
-Abriu seu próprio negócio e hoje se dedica a tornar a vida dos outros mais doce.
+_ Abriu seu próprio negócio e hoje se dedica a tornar a vida dos outros mais doce. _
 
-Apaixonada pela arte do açúcar, ama a modelagem e com muito carinho vem tornando realidade seu sonho de uma grande  Cake Desiger.
+_ Apaixonada pela arte do açúcar, ama a modelagem e com muito carinho vem tornando realidade seu sonho de uma grande  Cake Desiger. _
