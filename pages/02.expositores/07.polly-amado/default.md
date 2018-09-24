@@ -15,6 +15,9 @@ restaurant:
     priceRange: $
 ---
 
+# Polly Amado,
+### 31 anos
+
 A 3 anos no ramo da confeitaria, ela se encontrou.
 
 Abriu seu próprio negócio e hoje se dedica a tornar a vida dos outros mais doce.
