@@ -15,8 +15,9 @@ restaurant:
     priceRange: $
 ---
 
-# Polly Amado,
-### 31 anos
+# Polly Amado,<em> <p>
+    31 anos
+</p> <em>
 
 A 3 anos no ramo da confeitaria, ela se encontrou.
 
