@@ -1,5 +1,6 @@
 ---
 title: 'Travessura Festas'
+media_order: 'Foto Rosália.jpg'
 twittercardoptions: summary
 articleenabled: false
 musiceventenabled: false
@@ -13,7 +14,6 @@ restaurantenabled: false
 restaurant:
     priceRange: $
 ---
-
 
 ## Empresa: Travessura Festas
 ### Proprietária: Rosália
