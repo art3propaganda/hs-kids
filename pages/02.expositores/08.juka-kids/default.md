@@ -1,5 +1,6 @@
 ---
 title: 'Juka Kids'
+media_order: 'karine POST SHOPPING.jpg'
 twittercardoptions: summary
 articleenabled: false
 musiceventenabled: false
